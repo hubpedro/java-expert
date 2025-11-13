@@ -1,11 +1,9 @@
-package Fundamentals;
+package Fundamentos.Modulos.EstruturaDeDados.ArrayList;
 
 import java.util.ArrayList;
-import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 import java.util.function.BiPredicate;
-import java.util.function.IntSupplier;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 

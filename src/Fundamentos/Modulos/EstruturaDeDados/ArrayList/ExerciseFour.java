@@ -1,7 +1,6 @@
-package Fundamentals;
+package Fundamentos.Modulos.EstruturaDeDados.ArrayList;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class ExerciseFour {
@@ -27,8 +26,6 @@ public class ExerciseFour {
 
         numbers.forEach(n -> System.out.print(n + " "));
         System.out.println("ArrayList can be resized but memory overhead is higher: ".concat(String.valueOf(numbers.size())));
-
-
     }
 
 }

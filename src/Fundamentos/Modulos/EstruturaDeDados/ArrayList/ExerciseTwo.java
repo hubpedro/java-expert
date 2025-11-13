@@ -1,4 +1,4 @@
-package Fundamentals;
+package Fundamentos.Modulos.EstruturaDeDados.ArrayList;
 
 
 import java.util.ArrayList;
